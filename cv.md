@@ -10,3 +10,17 @@ ___
 Currently working as an architect and urban planner. 
 Interested in parametric design, improving workflow by integration of coding, plugins etc. 
 Therefore I try to learn something new and search new solutions for routine-tasks.
+###_skills_
+___
+* __it__
+    * git | github | markdown
+    * figma
+    * visual studio code
+    * html
+    * css
+    * java script basics
+    * python basics
+* __arch__
+    * _rhinoceros + grasshopper_
+    * _adobe photoshop | illustrator | indesign | premiere pro_
+    * _qgis_
