@@ -34,3 +34,12 @@ ___
     * 2022 | Hexlet | JavaScript for beginner
 * _arch_   
     * _2018-2020 | SPbGASU | architect | master's degree_
+###_experience_
+___
+I don't have any it experience,  although I have done some python scripts for grasshopper and qgis to reduce my master's workflow.
+####_code example_
+___
+###_languages_
+* __russian__ | native
+* __english__ | B2-C1
+* __italian__ | A2
